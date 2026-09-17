@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+joblib
+scikit-learn==1.6.1
+shap
+spacy
+nltk
+pydantic
+numpy
